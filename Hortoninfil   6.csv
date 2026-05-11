@@ -1,0 +1,9 @@
+19.5,最大下渗,f0,mm/h
+19.5,最小下渗,fmin,mm/h
+0,衰减系数,decay,
+0,累计渗透量,Fe,mm
+500,最大下渗量,,m
+0,蒸发恢复系数,regen,
+0,时间,tp,s
+0.03,曼宁,Manning,
+1,修正系数,InfilFactor,
